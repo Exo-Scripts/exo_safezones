@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/63890993/187862219-ee1cff61-8888-41c9-8e3e-1238b345e3f5.png)
+![image](https://cdn.discordapp.com/attachments/1023660353604812911/1031275886063927327/exozones.png)
 
 ## What is it?
 
@@ -21,7 +21,7 @@ The following can be found in the ``config.lua`` file.
 ```
 
 ## Download
-https://github.com/BreezyTheDev/Breezy_Safezones
+[https://github.com/Exo-Scripts/exo_safezones]
 
 ## Preview
 https://youtu.be/XdEhVeF2TIw
