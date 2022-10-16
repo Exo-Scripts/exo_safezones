@@ -21,10 +21,10 @@ The following can be found in the ``config.lua`` file.
 ```
 
 ## Download
-[https://github.com/Exo-Scripts/exo_safezones]
+https://github.com/Exo-Scripts/exo_safezones
 
 ## Preview
-https://youtu.be/XdEhVeF2TIw
+https://youtu.be/5UHv2EKdTio
 
 ## Errors or Suggestions?
 Please message me on discord if you come across any errors when using this resource or if you would like to make a suggestion.
